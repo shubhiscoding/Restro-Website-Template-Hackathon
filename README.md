@@ -1,3 +1,3 @@
 # Hackathon
 
-Link: https://drew7wonders.github.io/Hackathon/Index.html
+Link: [Link to the site](https://shubhiscoding.github.io/Restro-Website-Template-Hackathon/Index.html)https://shubhiscoding.github.io/Restro-Website-Template-Hackathon/Index.html
